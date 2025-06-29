@@ -30,3 +30,4 @@ Browser extensions are an expanding field — from productivity apps like Rescue
 
 *OUTPUT:- 
 
+![Image](https://github.com/user-attachments/assets/06f065f0-f29e-4b9c-a074-3be345886975)
